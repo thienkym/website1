@@ -1,0 +1,16 @@
+.news{
+    border: 1px solid black;
+    width: 500px;
+    margin: 5px;
+}
+img{
+    width: 100%;
+}
+p{
+    padding: 10px;
+}
+h2{
+    padding: 10px;
+}
+.bg-color{
+    background-color: rgb(27, 102, 73);
